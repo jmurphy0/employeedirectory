@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/employeedirectory/static/css/main.0974df96.chunk.css",
+    "main.js": "/employeedirectory/static/js/main.9d973a24.chunk.js",
+    "main.js.map": "/employeedirectory/static/js/main.9d973a24.chunk.js.map",
+    "runtime-main.js": "/employeedirectory/static/js/runtime-main.b1e6ba1e.js",
+    "runtime-main.js.map": "/employeedirectory/static/js/runtime-main.b1e6ba1e.js.map",
+    "static/js/2.2276b867.chunk.js": "/employeedirectory/static/js/2.2276b867.chunk.js",
+    "static/js/2.2276b867.chunk.js.map": "/employeedirectory/static/js/2.2276b867.chunk.js.map",
+    "static/js/3.f62d50c3.chunk.js": "/employeedirectory/static/js/3.f62d50c3.chunk.js",
+    "static/js/3.f62d50c3.chunk.js.map": "/employeedirectory/static/js/3.f62d50c3.chunk.js.map",
+    "index.html": "/employeedirectory/index.html",
+    "static/css/main.0974df96.chunk.css.map": "/employeedirectory/static/css/main.0974df96.chunk.css.map",
+    "static/js/2.2276b867.chunk.js.LICENSE.txt": "/employeedirectory/static/js/2.2276b867.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/employeedirectory/static/media/DigitalImage.fb52a71c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1e6ba1e.js",
+    "static/js/2.2276b867.chunk.js",
+    "static/css/main.0974df96.chunk.css",
+    "static/js/main.9d973a24.chunk.js"
+  ]
+}
